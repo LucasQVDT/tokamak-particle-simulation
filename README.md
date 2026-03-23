@@ -33,4 +33,4 @@ If you have questions or are interested in this project, feel free to reach out:
 - Email: lquevedo2023@udec.cl or quevedotellolucas@gmail.com
 
 ## 👤 Author
-Tomas Roa Valdebenito - Tomás Roa Valdebenito - Lucas Quevedo Tello
+Tomas Roa Valdebenito - Esteban Letelier Guzmán - Lucas Quevedo Tello
